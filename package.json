@@ -1,7 +1,7 @@
 {
   "name": "cursor-index",
   "main": "./lib/cursor-index",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Display the character index of the cursor in the status bar",
   "keywords": [
     "cursor index",
