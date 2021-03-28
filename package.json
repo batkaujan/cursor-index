@@ -1,9 +1,13 @@
 {
   "name": "cursor-index",
   "main": "./lib/cursor-index",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Display the character index of the cursor in the status bar",
-  "keywords": [ "cursor index", "char index", "character index" ],
+  "keywords": [
+    "cursor index",
+    "char index",
+    "character index"
+  ],
   "repository": "https://github.com/batkaujan/cursor-index",
   "license": "ISC",
   "engines": {
