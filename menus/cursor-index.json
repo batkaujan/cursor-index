@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Cursor Index",
+        "command": "cursor-index:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Cursor Index",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "cursor-index:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
